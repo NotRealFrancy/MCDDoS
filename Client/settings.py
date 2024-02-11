@@ -1,2 +1,2 @@
-token="dsdsakidkfiskfdskfdkfdkkdfdkfksfkdkfsfdskfdsk"
-ips=["127.0.0.1:14780"]
+token="[INSERT SAME TOKEN HERE]"
+ips=[] # Insert every proxy ip
